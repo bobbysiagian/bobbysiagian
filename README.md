@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobbysiagian
 - 👀 I’m interested in any technology best practice especially Health Tech, AI/ML & Helping people
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on educatio 
+- 🌱 I’m currently building my own startup that focus AI/ML
+- 💞️ I’m looking to collaborate on educational
 - 📫 How to reach me @bobbysiagian
 
 <!---
